@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Panini MONTEVAK">
+  <rect width="800" height="600" rx="44" fill="#2b1510"/>
+  <circle cx="620" cy="130" r="88" fill="#f1c97f" fill-opacity=".18"/>
+  <rect x="165" y="214" width="470" height="210" rx="38" fill="#f6efe5"/>
+  <path d="M210 260h380l-28 112c-6 24-28 42-53 42H291c-25 0-47-18-53-42z" fill="#b87945"/>
+  <path d="M220 250h360c15 0 27 12 27 27H193c0-15 12-27 27-27z" fill="#f1c97f"/>
+  <rect x="292" y="278" width="216" height="28" rx="14" fill="#7c4a28" fill-opacity=".9"/>
+  <rect x="276" y="318" width="248" height="16" rx="8" fill="#d8c1ae"/>
+  <text x="76" y="110" fill="#f7efd8" font-family="Georgia, serif" font-size="44" font-weight="700">Panini</text>
+  <text x="76" y="154" fill="#d8c1ae" font-family="Inter, Arial, sans-serif" font-size="24">Comida premium para acompanamiento</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-label="Menu board MONTEVAK">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a1b12"/>
+      <stop offset="1" stop-color="#1f0c09"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1400" rx="70" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="1280" rx="54" fill="none" stroke="#f1c97f" stroke-opacity=".28" stroke-width="3"/>
+  <text x="100" y="155" fill="#f7efd8" font-family="Georgia, serif" font-size="72" font-weight="700">MONTEVAK</text>
+  <text x="100" y="215" fill="#d8c1ae" font-family="Inter, Arial, sans-serif" font-size="28">Carta oficial</text>
+  <g fill="#f7efd8" font-family="Inter, Arial, sans-serif">
+    <text x="100" y="340" font-size="48" font-weight="700">Cafe caliente</text>
+    <text x="100" y="390" font-size="30">Espresso, Americano, Latte, Mocha</text>
+    <text x="100" y="510" font-size="48" font-weight="700">Cafe frio</text>
+    <text x="100" y="560" font-size="30">Cold Brew, Matcha helado, Iced Latte</text>
+    <text x="100" y="680" font-size="48" font-weight="700">Frappes</text>
+    <text x="100" y="730" font-size="30">Mocha, Vainilla, Caramelo, Oreo</text>
+    <text x="100" y="850" font-size="48" font-weight="700">Reposteria y combos</text>
+    <text x="100" y="900" font-size="30">Brownie, Muffin, Panini, combos del dia</text>
+  </g>
+  <g>
+    <circle cx="920" cy="390" r="150" fill="#f1c97f" fill-opacity=".12"/>
+    <circle cx="920" cy="390" r="96" fill="#f1c97f" fill-opacity=".25"/>
+    <path d="M880 420h80c18 0 32-14 32-32v-18c0-18-14-32-32-32h-80c-18 0-32 14-32 32v18c0 18 14 32 32 32z" fill="#f7efd8"/>
+    <path d="M893 338h54c16 0 28 12 28 28v10H865v-10c0-16 12-28 28-28z" fill="#d8c1ae"/>
+  </g>
+</svg>

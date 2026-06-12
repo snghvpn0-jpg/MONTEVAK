@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Panini premium</title>
+  <desc id="desc">Ilustraci¡³n de un panini caliente con ingredientes dorados sobre fondo caf¡©.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stopcolor="#2b100e"/>
+      <stop offset="100%" stopcolor="#120505"/>
+    </linearGradient>
+    <linearGradient id="bread" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stopcolor="#f0cf9a"/>
+      <stop offset="100%" stopcolor="#b87a3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="560" rx="330" ry="90" fill="#000" opacity=".28"/>
+  <rect x="250" y="210" width="700" height="300" rx="60" fill="#f6efe5"/>
+  <rect x="270" y="235" width="660" height="250" rx="48" fill="url(#bread)"/>
+  <path d="M320 300h560" stroke="#8d4e22" strokewidth="24" strokelinecap="round"/>
+  <path d="M320 365h560" stroke="#4f7f3f" strokewidth="20" strokelinecap="round"/>
+  <path d="M350 430h500" stroke="#d6a65a" strokewidth="18" strokelinecap="round"/>
+  <circle cx="430" cy="330" r="34" fill="#fff3d9"/>
+  <circle cx="520" cy="380" r="34" fill="#fff3d9"/>
+  <circle cx="630" cy="315" r="34" fill="#fff3d9"/>
+  <circle cx="750" cy="385" r="34" fill="#fff3d9"/>
+  <text x="600" y="650" fill="#fff4e5" fontfamily="Inter, Arial, sansserif" fontsize="34" textanchor="middle">Panini premium MONTEVAK</text>
+</svg>
+
+
+
+
+
+

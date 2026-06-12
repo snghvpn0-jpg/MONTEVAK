@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="MONTEVAK logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5d58e"/>
+      <stop offset="1" stop-color="#c58b3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="92" fill="#2c120d"/>
+  <circle cx="256" cy="256" r="186" fill="url(#g)" opacity=".18"/>
+  <rect x="86" y="86" width="340" height="340" rx="70" fill="url(#g)"/>
+  <path d="M165 340V172h45l46 102 47-102h44v168h-39V244l-34 73h-31l-33-73v96z" fill="#2c120d"/>
+  <circle cx="356" cy="158" r="12" fill="#2c120d" opacity=".75"/>
+</svg>

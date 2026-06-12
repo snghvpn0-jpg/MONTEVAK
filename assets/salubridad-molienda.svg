@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Molienda de cafe">
+  <rect width="800" height="500" rx="40" fill="#2b1510"/>
+  <rect x="300" y="110" width="200" height="250" rx="34" fill="#f6efe5"/>
+  <rect x="338" y="150" width="124" height="110" rx="18" fill="#b87945"/>
+  <path d="M400 68v42" stroke="#f7efd8" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="380" cy="270" r="10" fill="#7c4a28"/>
+  <circle cx="420" cy="270" r="10" fill="#7c4a28"/>
+  <text x="92" y="90" fill="#f7efd8" font-family="Georgia, serif" font-size="38" font-weight="700">Molienda</text>
+</svg>

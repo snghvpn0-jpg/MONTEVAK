@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Bebida frappe MONTEVAK">
+  <rect width="800" height="600" rx="44" fill="#2b1510"/>
+  <circle cx="620" cy="120" r="84" fill="#f1c97f" fill-opacity=".18"/>
+  <circle cx="190" cy="470" r="120" fill="#f1c97f" fill-opacity=".08"/>
+  <rect x="318" y="155" width="164" height="260" rx="28" fill="#f6efe5"/>
+  <rect x="344" y="188" width="112" height="190" rx="18" fill="#9c6238"/>
+  <path d="M344 250c18-22 38-32 56-32 26 0 42 18 56 18 12 0 24-6 32-12v94H344z" fill="#d8a15d"/>
+  <rect x="304" y="122" width="192" height="28" rx="14" fill="#f1c97f"/>
+  <rect x="284" y="402" width="232" height="28" rx="14" fill="#f1c97f" fill-opacity=".45"/>
+  <path d="M396 86v72" stroke="#f7efd8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M372 96c-20-26-48-42-84-50" stroke="#f7efd8" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M428 96c20-26 48-42 84-50" stroke="#f7efd8" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <text x="80" y="110" fill="#f7efd8" font-family="Georgia, serif" font-size="44" font-weight="700">Frappes</text>
+  <text x="80" y="154" fill="#d8c1ae" font-family="Inter, Arial, sans-serif" font-size="24">Bebidas frias y cremosas</text>
+</svg>

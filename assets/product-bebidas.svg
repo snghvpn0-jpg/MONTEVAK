@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Bebidas especiales</title>
+  <desc id="desc">Ilustraci¡³n de frappé¡© y mokaccino sobre fondo caf¡© oscuro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stopcolor="#2a0f0d"/>
+      <stop offset="100%" stopcolor="#110504"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="210" y="165" width="260" height="520" rx="30" fill="#f6efe5"/>
+  <rect x="250" y="240" width="180" height="360" rx="26" fill="#8a5630"/>
+  <rect x="650" y="190" width="280" height="480" rx="34" fill="#f6efe5"/>
+  <rect x="690" y="270" width="200" height="300" rx="26" fill="#d6a65a"/>
+  <path d="M280 195c25 50 155 50 180 0" fill="none" stroke="#fff4e5" strokewidth="18" strokelinecap="round"/>
+  <path d="M730 190c20 70 165 70 190 0" fill="none" stroke="#8a5630" strokewidth="18" strokelinecap="round"/>
+  <circle cx="820" cy="575" r="42" fill="#6b3a1d"/>
+  <circle cx="360" cy="590" r="42" fill="#d6a65a"/>
+  <text x="600" y="720" fill="#fff4e5" fontfamily="Inter, Arial, sansserif" fontsize="34" textanchor="middle">Frapp¡©s y mokaccinos especiales</text>
+</svg>
+
+
+
+
+
+
